@@ -2,7 +2,7 @@
 
 Output Screens:
 
-1)Start
+1) Start
 ![image](https://user-images.githubusercontent.com/85397590/234830092-3d56589f-3866-4543-bfc4-c3f5f7092041.png)
 
 2) Midway Input
